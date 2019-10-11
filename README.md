@@ -22,5 +22,4 @@
   -  Ratings_disabled (Boolean)
   -  Video_error_or_removed (Boolean)
   -  Description (String)
-- The inferences drawn from this dataset can be used for Machine Learning based applications, such as sentiment analysis and opinion     mining,recommender systems and classification of videos
-          -
+- The inferences drawn from this dataset can be used for Machine Learning based applications, such as sentiment analysis and opinion     mining,recommender systems and classification of videos.
